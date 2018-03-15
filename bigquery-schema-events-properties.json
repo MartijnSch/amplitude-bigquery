@@ -1,0 +1,22 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "property_type",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "insert_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "key",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "value",
+    "type": "STRING"
+  }
+]

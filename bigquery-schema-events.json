@@ -1,0 +1,212 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "client_event_time",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "ip_address",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "library",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "dma",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "user_creation_time",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "insert_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "schema",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "processed_time",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "client_upload_time",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "app",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "user_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "city",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "event_type",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "device_carrier",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "location_lat",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "event_time",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "platform",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "is_attribution_event",
+    "type": "BOOLEAN"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "os_version",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "paying",
+    "type": "BOOLEAN"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "amplitude_id",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "device_type",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "sample_rate",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "device_manufacturer",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "start_version",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "uuid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "version_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "location_lng",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "server_upload_time",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "event_id",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "device_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "device_family",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "os_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "adid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "amplitude_event_type",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "device_brand",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "country",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "device_model",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "language",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "region",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "session_id",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "idfa",
+    "type": "STRING"
+  }
+]
