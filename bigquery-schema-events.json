@@ -92,7 +92,7 @@
   {
     "mode": "NULLABLE",
     "name": "os_version",
-    "type": "INTEGER"
+    "type": "STRING"
   },
   {
     "mode": "NULLABLE",
